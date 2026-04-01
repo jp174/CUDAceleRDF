@@ -1,4 +1,4 @@
 -It is important to have installed numba and CUDA drivers along with the cuda toolkits
 -The script called rdfgpu4.py is the slower of both because this one expects varying cells, this one is for RDF done on similar estructures frames with varying cells or lattice parameters
 -The script called rdfgnovarian.py is way faster because this expects the cells or lattice parameters to be the same on every frame
--It is important to know that after the first run, the next runs will be faster due to cache and compilation reasons, the next weeks i will be providing extra information and user friendly modifications
+-It is important to know that after the first run, the next runs will be faster due to cache and compilation reasons, the next weeks i will be providing extra information and user friendly modifications.
